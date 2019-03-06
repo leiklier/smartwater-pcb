@@ -1,0 +1,150 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=ADC_SENSOR6 Pin=C6-2
+Removed Pin From Net: NetName=+3V3 Pin=J6-1
+Removed Pin From Net: NetName=ADC_SENSOR6 Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=T6-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=GND Pin=U3-20
+Removed Pin From Net: NetName=GND Pin=U3-21
+Removed Pin From Net: NetName=GND Pin=U3-22
+Removed Pin From Net: NetName=GND Pin=U3-24
+Removed Pin From Net: NetName=GND Pin=U3-26
+Removed Pin From Net: NetName=GND Pin=U3-27
+Removed Pin From Net: NetName=GND Pin=U3-28
+Removed Pin From Net: NetName=GND Pin=U3-33
+Removed Pin From Net: NetName=GND Pin=U3-41
+Removed Pin From Net: NetName=GND Pin=U3-47
+Removed Member From Class: ClassName=Sensors Member=C6
+Removed Member From Class: ClassName=Sensors Member=D6
+Removed Member From Class: ClassName=Sensors Member=J6
+Removed Member From Class: ClassName=Sensors Member=R6
+Removed Member From Class: ClassName=Sensors Member=T6
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=D(ESD protection)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D(ESD protection)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D(ESD protection)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D(ESD protection)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(Header 1x2 Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J(Header 1x2 Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=T?(N-CHANNEL MOSFET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T?(N-CHANNEL MOSFET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T(2N7002)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(DFN 6-pins)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(DFN 6-pins)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U(DFN 6-pins)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U(DFN 12-PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X(Realtime crystal SMD 4.2x1.45mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C-2
+Added Pin To Net: NetName=GND Pin=C-2
+Added Pin To Net: NetName=ADC_SENSOR1 Pin=D-1
+Added Pin To Net: NetName=ADC_SENSOR3 Pin=D-1
+Added Pin To Net: NetName=ADC_SENSOR5 Pin=D-1
+Added Pin To Net: NetName=NetC21_2 Pin=D-1
+Added Pin To Net: NetName=ADC_SENSOR2 Pin=D-2
+Added Pin To Net: NetName=ADC_SENSOR4 Pin=D-2
+Added Pin To Net: NetName=ADC_SENSOR6 Pin=D-2
+Added Pin To Net: NetName=NetC20_2 Pin=D-2
+Added Pin To Net: NetName=GND Pin=D-3
+Added Pin To Net: NetName=GND Pin=D-3
+Added Pin To Net: NetName=GND Pin=D-3
+Added Pin To Net: NetName=GND Pin=D-3
+Added Pin To Net: NetName=+3V3 Pin=J-1
+Added Pin To Net: NetName=ADC_SENSOR6 Pin=J-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=USB_VCC Pin=R-1
+Added Pin To Net: NetName=GND Pin=T-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Change Net Name : Old Net Name=USB_VCC New Net Name=USB_5V
+Added Pin To Net: NetName=GATE_1 Pin=T?-1
+Added Pin To Net: NetName=GATE_1 Pin=U?-3
+Added Net: Name=GATE_1
+Added Pin To Net: NetName=GATE_2 Pin=T?-1
+Added Pin To Net: NetName=GATE_2 Pin=U?-3
+Added Net: Name=GATE_2
+Added Pin To Net: NetName=NetC_1 Pin=C-1
+Added Pin To Net: NetName=NetC_1 Pin=U1-34
+Added Pin To Net: NetName=NetC_1 Pin=X-2
+Added Net: Name=NetC_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetR_1 Pin=R-1
+Added Pin To Net: NetName=NetR_1 Pin=T?-3
+Added Pin To Net: NetName=NetR_1 Pin=T?-3
+Added Pin To Net: NetName=NetR_1 Pin=U?-1
+Added Pin To Net: NetName=NetR_1 Pin=U?-1
+Added Pin To Net: NetName=NetR_1 Pin=U?-6
+Added Pin To Net: NetName=NetR_1 Pin=U?-6
+Added Net: Name=NetR_1
+Added Pin To Net: NetName=NetR_2 Pin=R-2
+Added Pin To Net: NetName=NetR_2 Pin=T?-2
+Added Pin To Net: NetName=NetR_2 Pin=U?-2
+Added Net: Name=NetR_2
+Added Pin To Net: NetName=NetT_1 Pin=T-1
+Added Net: Name=NetT_1
+Added Pin To Net: NetName=NetT_3 Pin=T-3
+Added Pin To Net: NetName=NetT_3 Pin=U3-1
+Added Pin To Net: NetName=NetT_3 Pin=U3-8
+Added Pin To Net: NetName=NetT_3 Pin=U3-11
+Added Pin To Net: NetName=NetT_3 Pin=U3-20
+Added Pin To Net: NetName=NetT_3 Pin=U3-21
+Added Pin To Net: NetName=NetT_3 Pin=U3-22
+Added Pin To Net: NetName=NetT_3 Pin=U3-24
+Added Pin To Net: NetName=NetT_3 Pin=U3-26
+Added Pin To Net: NetName=NetT_3 Pin=U3-27
+Added Pin To Net: NetName=NetT_3 Pin=U3-28
+Added Pin To Net: NetName=NetT_3 Pin=U3-33
+Added Pin To Net: NetName=NetT_3 Pin=U3-41
+Added Pin To Net: NetName=NetT_3 Pin=U3-47
+Added Net: Name=NetT_3
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Net: Name=NetU1_12
+Added Class: Name=POWER
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603
+Added Member To Class: ClassName=Sensors Member=Component D ESD
+Added Member To Class: ClassName=Sensors Member=Component D ESD
+Added Member To Class: ClassName=Sensors Member=Component D ESD
+Added Member To Class: ClassName=USB HOST Member=Component D ESD
+Added Member To Class: ClassName=Sensors Member=Component J Header 1x3
+Added Member To Class: ClassName=LoRaWan Member=Component T N-CHANNEL MOSFET
+Added Member To Class: ClassName=Target MCU Member=Component X Real time crystal
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST
