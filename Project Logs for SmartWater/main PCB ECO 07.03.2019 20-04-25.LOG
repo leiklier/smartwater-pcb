@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ADC_SENSOR6 Pin=D5-2
+Change Component Designator: OldDesignator=TEMP. NewDesignator=D1
+Added Pin To Net: NetName=NetC5_2 Pin=D5-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=SENSOR6_ESD
+Added Member To Class: ClassName=Sensors Member=Component R4 Resistor 0603
+Added Member To Class: ClassName=Sensors Member=Component R6 Resistor 0603
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

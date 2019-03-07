@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=Target MCU Member=C5
+Removed Member From Class: ClassName=Target MCU Member=C20
+Removed Member From Class: ClassName=Sensors Member=D10
+Removed Member From Class: ClassName=Sensors Member=D11
+Removed Member From Class: ClassName=Target MCU Member=D11
+Change Net Name : Old Net Name=NetC22_2 New Net Name=USB_N
+Change Net Name : Old Net Name=NetC23_2 New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=Sensors Member=Component C5 Capacitor 0603
+Added Member To Class: ClassName=Target MCU Member=Component C16 Capacitor 0603
+Added Member To Class: ClassName=Target MCU Member=Component C17 Capacitor 0603
+Added Member To Class: ClassName=USB HOST Member=Component C18 Capacitor 0603
+Added Member To Class: ClassName=USB HOST Member=Component C21 Capacitor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component C24 Capacitor 0603
+Added Member To Class: ClassName=Sensors Member=Component D5 ESD
+Added Member To Class: ClassName=Sensors Member=Component D7 ESD
+Added Member To Class: ClassName=Target MCU Member=Component D9 LED Blue
+Added Member To Class: ClassName=Sensors Member=Component R3 Resistor 0603
+Added Member To Class: ClassName=Sensors Member=Component R5 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R13 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component U6 OR controller
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST
