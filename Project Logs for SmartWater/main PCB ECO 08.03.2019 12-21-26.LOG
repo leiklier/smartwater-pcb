@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=LoRaWan Member=C19
+Removed Member From Class: ClassName=LoRaWan Member=C20
+Removed Member From Class: ClassName=USB HOST Member=C
+Removed Member From Class: ClassName=USB HOST Member=D7
+Added Member To Class: ClassName=USB HOST Member=Component C16 Capacitor 0603
+Added Member To Class: ClassName=USB HOST Member=Component C21 Capacitor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component C22 Capacitor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component C23 Capacitor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component C24 Capacitor 0603
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603
+Added Member To Class: ClassName=USB HOST Member=Component D9 LED Green
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

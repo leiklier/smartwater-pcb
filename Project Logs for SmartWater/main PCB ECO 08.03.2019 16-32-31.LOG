@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC22_2 New Net Name=USB_N
+Change Net Name : Old Net Name=NetC23_2 New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

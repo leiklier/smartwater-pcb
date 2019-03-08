@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=U8-6
+Removed Member From Class: ClassName=POWER Member=C33
+Removed Member From Class: ClassName=POWER Member=C34
+Removed Member From Class: ClassName=POWER Member=C35
+Removed Member From Class: ClassName=POWER Member=L2
+Removed Member From Class: ClassName=POWER Member=R15
+Removed Member From Class: ClassName=POWER Member=R16
+Removed Member From Class: ClassName=POWER Member=R18
+Removed Member From Class: ClassName=POWER Member=R19
+Removed Member From Class: ClassName=POWER Member=R20
+Removed Member From Class: ClassName=POWER Member=U8
+Change Net Color : Old Net Color=RGB(165, 0, 33) New Net Color=Default
+Change Net Color : Old Net Color=RGB(165, 0, 33) New Net Color=Default
+Added Differential Pair: Name=USB
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

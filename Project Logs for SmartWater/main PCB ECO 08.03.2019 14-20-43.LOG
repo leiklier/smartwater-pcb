@@ -1,0 +1,11 @@
+Added Component: Designator=U(LDO 5-pin SOT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=+3V3 Pin=U-5
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603
+Added Member To Class: ClassName=POWER Member=Component U LDO regulator 3.3V
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1 Old Footprint=HEADER 1X3 MALE New Footprint=Header 1x3 Male JST
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 1X3 MALE New Footprint=Header 1x3 Male JST
+Change Component Footprint: Designator=J3 Old Footprint=HEADER 1X3 MALE New Footprint=Header 1x3 Male JST
+Change Component Footprint: Designator=J4 Old Footprint=HEADER 1X3 MALE New Footprint=Header 1x3 Male JST
+Change Component Footprint: Designator=J6 Old Footprint=HEADER 1X3 MALE New Footprint=Header 1x3 Male JST
+Change Component Library : Designator=J1 Old Library= New Library=Connectors.SchLib
+Change Component Library : Designator=J2 Old Library= New Library=Connectors.SchLib
+Change Component Library : Designator=J3 Old Library= New Library=Connectors.SchLib
+Change Component Library : Designator=J4 Old Library= New Library=Connectors.SchLib
+Change Component Library : Designator=J6 Old Library= New Library=Connectors.SchLib
+Added Member To Class: ClassName=Target MCU Member=Component C Capacitor 0603

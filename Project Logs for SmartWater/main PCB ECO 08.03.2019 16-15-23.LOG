@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=USB_5V Pin=R9-2
+Removed Pin From Net: NetName=USB_5V Pin=R10-2
+Removed Pin From Net: NetName=NetD11_2 Pin=U2-7
+Removed Pin From Net: NetName=NetD10_2 Pin=U2-14
+Added Pin To Net: NetName=USB_5V Pin=D10-1
+Added Pin To Net: NetName=USB_5V Pin=D11-1
+Added Pin To Net: NetName=NetD10_2 Pin=R9-2
+Added Pin To Net: NetName=NetD11_2 Pin=R10-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-14
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-7
+Added Net: Name=NetR10_1
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

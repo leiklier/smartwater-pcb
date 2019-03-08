@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=+3V3 Pin=C24-2
+Added Pin To Net: NetName=+3V3 Pin=C25-2
+Added Pin To Net: NetName=+3V3 Pin=C26-2
+Added Pin To Net: NetName=+3V3 Pin=C27-2
+Added Pin To Net: NetName=+3V3 Pin=U3-12
+Added Pin To Net: NetName=+3V3 Pin=U3-34
+Added Member To Class: ClassName=POWER Member=Component C28 El. Capacitor SMD 4x5.4
+Added Member To Class: ClassName=POWER Member=Component C29 Capacitor 0603
+Added Member To Class: ClassName=POWER Member=Component C32 El. Capacitor SMD 4x5.4
+Added Member To Class: ClassName=POWER Member=Component C33 Capacitor 0805
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

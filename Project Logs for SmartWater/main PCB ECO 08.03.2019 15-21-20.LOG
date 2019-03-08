@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetT6_1 Pin=U1-12
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST
