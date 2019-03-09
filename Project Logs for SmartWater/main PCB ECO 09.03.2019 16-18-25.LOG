@@ -1,0 +1,279 @@
+Removed Pin From Net: NetName=GATE_1 Pin=T7-1
+Removed Pin From Net: NetName=GATE_2 Pin=T8-1
+Removed Pin From Net: NetName=GATE_1 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=GATE_2 Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Member From Class: ClassName=POWER Member=T7
+Removed Member From Class: ClassName=POWER Member=T8
+Removed Member From Class: ClassName=POWER Member=U7
+Removed Member From Class: ClassName=POWER Member=U9
+Change Component Footprint: Designator=T8 Old Footprint=N-CHANNEL MOSFET New Footprint=2N7002
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=J9 NewDesignator=J10
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=T6 NewDesignator=T7
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U4
+Change Component Designator: OldDesignator=U9 NewDesignator=U6
+Added Component: Designator=C33(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(Capacitor electrolytic SMD 5x5.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(Capacitor electrolytic SMD 5x5.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D13(L0603 RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(L0603 RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(HEADER 1X2 MALE JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(Header 1x3 Male JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(Inductor 1515)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "type"; Value = "MSS1583-683MED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "68uH"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.22"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R27(Potentiometer 0505)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R28(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Added Component: Designator=T6(2N7002)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T11(N-CHANNEL MOSFET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T12(N-CHANNEL MOSFET)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U7(LTC4150)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(DFN 6-pins)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(DFN 12-PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(DFN 6-pins)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+3V3 Pin=D13-1
+Added Pin To Net: NetName=+3V3 Pin=D14-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=NetC28_1 Pin=R16-1
+Added Pin To Net: NetName=NetC28_1 Pin=R18-2
+Added Pin To Net: NetName=+3V3 Pin=R20-2
+Added Pin To Net: NetName=+3V3 Pin=R21-2
+Added Pin To Net: NetName=+3V3 Pin=R22-2
+Added Pin To Net: NetName=+3V3 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R27-3
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=T6-2
+Added Pin To Net: NetName=GND Pin=T8-2
+Added Pin To Net: NetName=GND Pin=T12-2
+Added Pin To Net: NetName=NetC28_1 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U9-13
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-4
+Change Net Name : Old Net Name=NetJ9_2 New Net Name=NetJ10_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetT6_1 New Net Name=NetT7_1
+Change Net Name : Old Net Name=NetT6_3 New Net Name=NetT7_3
+Added Pin To Net: NetName=CCOUNT+ Pin=C34-1
+Added Pin To Net: NetName=CCOUNT+ Pin=C35-1
+Added Pin To Net: NetName=CCOUNT+ Pin=C36-2
+Added Pin To Net: NetName=CCOUNT+ Pin=R18-1
+Added Pin To Net: NetName=CCOUNT+ Pin=R24-2
+Added Pin To Net: NetName=CCOUNT+ Pin=R25-2
+Added Pin To Net: NetName=CCOUNT+ Pin=R26-1
+Added Pin To Net: NetName=CCOUNT+ Pin=R28-2
+Added Pin To Net: NetName=CCOUNT+ Pin=T11-2
+Added Pin To Net: NetName=CCOUNT+ Pin=U7-1
+Added Pin To Net: NetName=CCOUNT+ Pin=U7-8
+Added Pin To Net: NetName=CCOUNT+ Pin=U8-2
+Added Pin To Net: NetName=CCOUNT+ Pin=U9-9
+Added Net: Name=CCOUNT+
+Added Pin To Net: NetName=CCOUNT- Pin=J11-2
+Added Pin To Net: NetName=CCOUNT- Pin=R24-1
+Added Pin To Net: NetName=CCOUNT- Pin=R26-2
+Added Pin To Net: NetName=CCOUNT- Pin=U7-2
+Added Net: Name=CCOUNT-
+Added Pin To Net: NetName=CLR Pin=R21-1
+Added Pin To Net: NetName=CLR Pin=U1-31
+Added Pin To Net: NetName=CLR Pin=U7-9
+Added Net: Name=CLR
+Added Pin To Net: NetName=INT Pin=R22-1
+Added Pin To Net: NetName=INT Pin=U1-30
+Added Pin To Net: NetName=INT Pin=U7-10
+Added Net: Name=INT
+Added Pin To Net: NetName=LoRa_RX Pin=T8-1
+Added Pin To Net: NetName=LoRa_RX Pin=U1-11
+Added Pin To Net: NetName=LoRa_RX Pin=U3-6
+Added Net: Name=LoRa_RX
+Added Pin To Net: NetName=LoRa_TX Pin=T6-1
+Added Pin To Net: NetName=LoRa_TX Pin=U1-10
+Added Pin To Net: NetName=LoRa_TX Pin=U3-7
+Added Net: Name=LoRa_TX
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=U7-4
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=U7-3
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=R17-2
+Added Pin To Net: NetName=NetC37_2 Pin=R27-1
+Added Pin To Net: NetName=NetC37_2 Pin=U9-1
+Added Pin To Net: NetName=NetC37_2 Pin=U9-3
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=U9-6
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R13-2
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=R14-2
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R16-2
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R25-1
+Added Pin To Net: NetName=NetL2_2 Pin=U9-10
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=T6-3
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=T8-3
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=U9-2
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=R29-1
+Added Pin To Net: NetName=NetR28_1 Pin=R30-2
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U9-7
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetU1_32 Pin=U1-32
+Added Pin To Net: NetName=NetU1_32 Pin=U7-6
+Added Net: Name=NetU1_32
+Added Pin To Net: NetName=NetU1_38 Pin=U1-38
+Added Pin To Net: NetName=NetU1_38 Pin=U9-5
+Added Net: Name=NetU1_38
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Pin To Net: NetName=NetU1_39 Pin=U9-4
+Added Net: Name=NetU1_39
+Added Pin To Net: NetName=NTC Pin=J11-1
+Added Pin To Net: NetName=NTC Pin=U9-8
+Added Net: Name=NTC
+Added Pin To Net: NetName=OR1_OUT Pin=C38-1
+Added Pin To Net: NetName=OR1_OUT Pin=T11-3
+Added Pin To Net: NetName=OR1_OUT Pin=U8-1
+Added Pin To Net: NetName=OR1_OUT Pin=U8-6
+Added Pin To Net: NetName=OR1_OUT Pin=U9-11
+Added Net: Name=OR1_OUT
+Added Pin To Net: NetName=OR2_OUT Pin=C38-2
+Added Pin To Net: NetName=OR2_OUT Pin=L2-1
+Added Pin To Net: NetName=OR2_OUT Pin=T12-3
+Added Pin To Net: NetName=OR2_OUT Pin=U9-12
+Added Pin To Net: NetName=OR2_OUT Pin=U10-1
+Added Pin To Net: NetName=OR2_OUT Pin=U10-6
+Added Net: Name=OR2_OUT
+Added Pin To Net: NetName=POL Pin=R20-1
+Added Net: Name=POL
+Added Pin To Net: NetName=SHDN Pin=R23-1
+Added Pin To Net: NetName=SHDN Pin=U7-5
+Added Net: Name=SHDN
+Added Class: Name=SOLAR BATTERY CHARGER
+Added Member To Class: ClassName=LoRaWan Member=Component D13 LED Red
+Added Member To Class: ClassName=LoRaWan Member=Component D14 LED Red
+Added Member To Class: ClassName=POWER Member=Component J10 Header 1x3
+Added Member To Class: ClassName=LoRaWan Member=Component R13 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R14 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R16 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R18 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component T7 N-CHANNEL MOSFET
+Added Member To Class: ClassName=LoRaWan Member=Component T8 N-CHANNEL MOSFET
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=SOLAR BATTERY CHARGER
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

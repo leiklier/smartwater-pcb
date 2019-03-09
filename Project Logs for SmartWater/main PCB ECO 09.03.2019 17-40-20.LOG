@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=LoRaWan Member=R15
+Removed Member From Class: ClassName=LoRaWan Member=R19
+Added Member To Class: ClassName=POWER Member=Component C31 El. Capacitor SMD 4x5.4
+Added Member To Class: ClassName=POWER Member=Component J9 Header 1x3
+Added Member To Class: ClassName=USB HOST Member=Component R10 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R13 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R14 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R17 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component T6 N-CHANNEL MOSFET
+Added Member To Class: ClassName=LoRaWan Member=Component T7 N-CHANNEL MOSFET
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component T12 N-CHANNEL MOSFET
+Added Member To Class: ClassName=POWER Member=Component U4 OR controller
+Added Member To Class: ClassName=POWER Member=Component U5 LDO regulator 3.3V
+Added Member To Class: ClassName=POWER Member=Component U6 OR controller
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component U7 Columb counter
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component U9 Li-Ion Charger
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=SOLAR BATTERY CHARGER
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

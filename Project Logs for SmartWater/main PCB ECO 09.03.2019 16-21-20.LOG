@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=LoRaWan Member=R15
+Removed Member From Class: ClassName=LoRaWan Member=R19
+Added Pin To Net: NetName=POL Pin=U1-32
+Added Pin To Net: NetName=POL Pin=U7-6
+Added Pin To Net: NetName=GATE_3 Pin=T11-1
+Added Pin To Net: NetName=GATE_3 Pin=U8-3
+Added Net: Name=GATE_3
+Added Pin To Net: NetName=GATE_4 Pin=T12-1
+Added Pin To Net: NetName=GATE_4 Pin=U10-3
+Added Net: Name=GATE_4
+Added Member To Class: ClassName=POWER Member=Component C31 El. Capacitor SMD 4x5.4
+Added Member To Class: ClassName=POWER Member=Component J9 Header 1x3
+Added Member To Class: ClassName=USB HOST Member=Component R10 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R13 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R14 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R17 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component T6 N-CHANNEL MOSFET
+Added Member To Class: ClassName=LoRaWan Member=Component T7 N-CHANNEL MOSFET
+Added Member To Class: ClassName=POWER Member=Component U4 OR controller
+Added Member To Class: ClassName=POWER Member=Component U5 LDO regulator 3.3V
+Added Member To Class: ClassName=POWER Member=Component U6 OR controller
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component U7 Columb counter
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component U9 Li-Ion Charger
