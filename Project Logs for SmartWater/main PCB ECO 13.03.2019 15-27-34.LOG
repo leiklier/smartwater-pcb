@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+3V3 Pin=R13-2
+Removed Member From Class: ClassName=LoRaWan Member=R16
+Removed Member From Class: ClassName=POWER Member=R23
+Added Pin To Net: NetName=+3V3_LoRa Pin=R13-2
+Added Member To Class: ClassName=LoRaWan Member=Component R13 Resistor 0603
+Added Member To Class: ClassName=LoRaWan Member=Component R14 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R17 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R18 Resistor 0603
+Added Member To Class: ClassName=POWER Member=Component R20 Resistor 0603
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R21 Resistor 0603
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R22 Resistor 0603
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R24 Resistor 0603
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R25 Resistor 0603
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R27 Potentiometer
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R29 Resistor 0603
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=SOLAR BATTERY CHARGER
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

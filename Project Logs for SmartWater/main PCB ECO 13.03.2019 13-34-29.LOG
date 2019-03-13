@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=A1-2
+Removed Pin From Net: NetName=GND Pin=A1-2
+Removed Pin From Net: NetName=GND Pin=A1-2
+Removed Pin From Net: NetName=GND Pin=U1-49
+Removed Pin From Net: NetName=GND Pin=U2-21
+Removed Member From Class: ClassName=LoRaWan Member=A1
+Added Component: Designator=R26(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CCOUNT+ Pin=R26-1
+Added Pin To Net: NetName=CCOUNT- Pin=R26-2
+Change Net Name : Old Net Name=NetT7_1 New Net Name=NetU1_12
+Change Net Name : Old Net Name=NetT7_3 New Net Name=NetU3_1
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component C34 El. Capacitor SMD 5x5.4
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component C35 El. Capacitor SMD 5x5.4
+Added Member To Class: ClassName=SOLAR BATTERY CHARGER Member=Component R26 Resistor 0603
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=SOLAR BATTERY CHARGER
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST

@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=main.SchDoc
+﻿Record=TopLevelDocument|FileName=main.SchDoc
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=LoRaWan|SchDesignator=LoRaWan|FileName=LoRaWan.SchDoc|SymbolType=Normal|RawFileName=LoRaWan.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Sensors|SchDesignator=Sensors|FileName=sensors.SchDoc|SymbolType=Normal|RawFileName=sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

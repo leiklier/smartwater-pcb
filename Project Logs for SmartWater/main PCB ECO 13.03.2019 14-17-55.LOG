@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CCOUNT+ Pin=R26-1
+Removed Pin From Net: NetName=CCOUNT- Pin=R26-2
+Removed Member From Class: ClassName=SOLAR BATTERY CHARGER Member=R26
+Added Room: Name=LoRaWan
+Added Room: Name=POWER
+Added Room: Name=Sensors
+Added Room: Name=SOLAR BATTERY CHARGER
+Added Room: Name=Target MCU
+Added Room: Name=USB HOST
