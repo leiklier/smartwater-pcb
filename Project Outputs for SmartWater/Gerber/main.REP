@@ -2,46 +2,6 @@
 FileName = main.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : main.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : main.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : main.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : main.GTS
 
@@ -103,20 +63,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : main.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : main.GBL
 
@@ -135,6 +81,60 @@ Used DCodes :
     D108
     D109
     D110
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : main.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : main.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : main.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : main.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
