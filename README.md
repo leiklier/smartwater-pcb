@@ -3,25 +3,40 @@
 
 This repository contains project files for the PCB design of an IoT sensor node responsible for datalogging of pollution parameters in rivers. 
 
----
-
-## About
-
-The product features a state-of-the art [ATmega4809](https://www.microchip.com/wwwproducts/en/ATMEGA4809) MCU, and transmits sensor data over LoRaWAN using the [RN2483A](https://www.microchip.com/wwwproducts/en/RN2483) module. By connecting it to a solar panel, the device will be self-supplied with energy because of its built-in solar charger. It is designed for use with single cell Li-ion batteries. The sensors connecting to the device are all considered to be analog.
-
 The design was done in Altium 19 in collaboration with [Bjørn Brodtkorb](https://github.com/bjornbrodtkorb) as part of the subject [TTT4270](https://www.ntnu.no/studier/emner/TTT4270/2018) at NTNU.
 
+---
+
+## Features
+
+* Utilizes the state-of-the art Microchip [ATmega4809](https://www.microchip.com/wwwproducts/en/ATMEGA4809) MCU.
+* Transmits sensor data over LoRaWAN using the Microchip [RN2483A](https://www.microchip.com/wwwproducts/en/RN2483) module.
+* Can log data from five different sensors (analog) simultaneously.
+* The sensors can be powered down using NMOS-transistors to prevent them from drawing current when not in use.
+* Intrusion detection system: Using a reed sensor, the system can be configured to send an alert when the casing has been opened.
+* Low power mode: MCU can enter deep sleep, and the LoRaWAN chip can be powered down by a PMOS transistor connected to VCC.
+* Battery powered by single cell Li-ion batteries.
+* Batteries may be charged via the USB port.
+* Can be connected to a solar cell, which will charge the batteries when sufficient sun intensity.
+* Coloumb counter keeps track on how much capacity there is left on the batteries.
+* Works with 800MHz LoRaWAN.
+
+
 ## Screenshots
+
+### 3D model
 
 ![3D model of the PCB](./static/PCB_3D_Screenshot.png)
 
 **Figure 1:** *3D-view of the PCB. Dimensions: 8cm☓5cm.*
 
+### 2D model
 
 ![2D model of the PCB](./static/2D-view.png)
 
 **Figure 2:** *2D-view of the PCB. Ground planes are hidden in order to better show all traces.*
 
+### Block diagram
 
 ![Block diagram](./static/main_schematic.png)
 
@@ -32,6 +47,7 @@ The design was done in Altium 19 in collaboration with [Bjørn Brodtkorb](https:
 
 **Figure 4:** *Schematic diagram of the target MCU block.*
 
+### Schematics
 
 ![Schematic of the sensors block](./static/sensors_schematic.png)
 
