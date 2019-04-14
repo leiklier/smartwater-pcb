@@ -5,8 +5,60 @@ This repository contains project files for the PCB design of an IoT sensor node 
 
 ---
 
-The product features a state-of-the art [ATmega4809](https://www.microchip.com/wwwproducts/en/ATMEGA4809) MCU, and transmits sensor data over LoRaWAN using the [RN2483A](https://www.microchip.com/wwwproducts/en/RN2483) module. By connecting it to a solar panel, the device will self-supplied with energy because of its built-in solar charger. It is designed for use with single cell Li-ion batteries. The sensors connecting to the device are all considered to be analog.
+## About
+
+The product features a state-of-the art [ATmega4809](https://www.microchip.com/wwwproducts/en/ATMEGA4809) MCU, and transmits sensor data over LoRaWAN using the [RN2483A](https://www.microchip.com/wwwproducts/en/RN2483) module. By connecting it to a solar panel, the device will be self-supplied with energy because of its built-in solar charger. It is designed for use with single cell Li-ion batteries. The sensors connecting to the device are all considered to be analog.
 
 The design was done in Altium 19 in collaboration with [Bjørn Brodtkorb](https://github.com/bjornbrodtkorb) as part of the subject [TTT4270](https://www.ntnu.no/studier/emner/TTT4270/2018) at NTNU.
 
+## Screenshots
+
 ![3D model of the PCB](./static/PCB_3D_Screenshot.png)
+
+**Figure 1:** *3D-view of the PCB. Dimensions: 8cm☓5cm.*
+
+
+![2D model of the PCB](./static/2D-view.png)
+
+**Figure 2:** *2D-view of the PCB. Ground planes are hidden in order to better show all traces.*
+
+
+![Block diagram](./static/main_schematic.png)
+
+**Figure 3:** *Block diagram of the system.*
+
+
+![Schematic of target MCU block](./static/target-mcu_schematic.png)
+
+**Figure 4:** *Schematic diagram of the target MCU block.*
+
+
+![Schematic of the sensors block](./static/sensors_schematic.png)
+
+**Figure 5:** *Schematic diagram for the sensors block.*
+
+
+![Schematic of the USB-to-UART block](./static/usb-to-uart_schematic.png)
+
+**Figure 6:** *Schematic diagram of the USB-to-UART block.*
+
+
+![Schematic of power supply block](./static/power_schematic.png)
+
+**Figure 7:** *Schematic diagram of the power block.*
+
+
+![Schematic of the solar charger block](./static/solar-charger_schematic.png)
+
+**Figure 8:** *Schematic diagram of the solar charger block. The or controllers are used as a replacement for schottky diodes in order to get a higher output voltage.*
+
+![Schematic of the LoRaWAN block](./static/lorawan_schematic.png)
+
+**Figure 2:** *Schematic diagram of the LoRaWAN block.*
+
+## Known issues
+
+* The LDO regulator has wrong footprint. This is not a critical issue, because by soldering it on carefully it will work well (the footprint was fortunately too large).
+* The USB-to-FTDI block is missing a ferrite bead between VBUS and the capacitors. It should be noted that it will work fine without it.
+* The stitching underneath the RN2483A LoRaWAN module should have been done by using tented vias. This was not done because untented vias looked cool. However, the module has test pads underneath which gets shorted to ground with this design. Consider using an isolating tape underneath the module or change the stitching to tented vias to fix this issue.
+* Many pads have traces exiting not directly out in the right direction. This may lead to soldering issues because of wrong thermal conductivity properties. Ingulf Helland informed us about this in a design review after the PCB had been manufactured.
